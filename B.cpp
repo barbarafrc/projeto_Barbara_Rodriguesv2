@@ -26,3 +26,6 @@ void B::MB1() {
 void B::MB2() {
     std::cout << "Método MB2() chamado." << std::endl;
 }
+void B::MB3() {
+    std::cout << "Método MC2() chamado." << std::endl;
+}
